@@ -1,0 +1,16 @@
+//- Var for nav
+include variables
+
+// Nav
+header
+	#logo
+		h1 Creativo
+	nav(role="navigation")
+		ul#menu
+			- each page,i in Navigation
+				- if (currentPage === page.link)
+					li(class='#{page.link}').active
+						a(href='#{page.link}.html') #{page.title}
+				- else
+					li(class="#{page.link}")
+						a(href='#{page.link}.html') #{page.title}
