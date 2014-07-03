@@ -27,7 +27,7 @@ This framework is still in the 'works', but as of right now you can use it for p
 2. Better Orginization plus comments
 3. Browserify
 4. Modularize Gulp File
-5. [Unison.js](http://bjork24.github.io/Unison/)
+5. Unison.js
 6. Yeoman Generator
 
 - Also I am planning on adding some helpful component flies, like buttons, accordian, defult nav, mobile nav. This will help speed up production and prototyping. 
