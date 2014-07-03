@@ -19,7 +19,7 @@ This framework is still in the 'works', but as of right now you can use it for p
 ######Pretty Typical Gulp Commnands
 1. Gulp Watch for dev.
 2. Gulp Build for production
-!important, as of right now it works with nib and axis-css, but these two do conflict in some areas. That being said, I would recommend that you remove one (I typically remove nib). I just added for flexablity.
+- !important, as of right now it works with nib and axis-css, but these two do conflict in some areas. That being said, I would recommend that you remove one (I typically remove nib). I just added for flexablity.
 
 
 ##To-Do
