@@ -30,8 +30,4 @@ This framework is still in the 'works', but as of right now you can use it for p
 5. Unison.js
 6. Yeoman Generator
 
-- Also I am planning on adding some helpful component flies, like buttons, accordian, defult nav, mobile nav. This will help speed up production and prototyping. 
-- Any help is appreciated. I have only been coding for 6 months so if you have any recommendations or such I am all ears.
 
-
-ps. I live in Delafield Wisconsin and I am currently freelancing, but am in the process of starting a studio. Thus, if you are a fellow code lover in the area I would love to talk. 
